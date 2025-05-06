@@ -23,6 +23,7 @@ experience:
   - title: Bs. Business Informatics 
     company: German-Paraguayan University
     company_url: 'https://upa.edu.py/'
+    company_logo: org-x
     location: Asunción, Paraguay
     date_start: '01-03-2021'
     date_end: '22-12-2024'
@@ -33,6 +34,7 @@ experience:
   - title: Exchange Year
     company: SRH Berlin of Applied Science
     company_url: 'https://www.srh-university.de/en/'
+    company_logo: org-x
     location: Berlin, Germany
     date_start: '03-10-2023'
     date_end: '20-09-2024'
