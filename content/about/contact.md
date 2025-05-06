@@ -13,18 +13,13 @@ title: Get in touch
 subtitle:
 
 content:
-  # Automatically link email and phone or display as text?
   autolink: true
-
-  # Email form provider
-   content:
-    autolink: true
-    form:
-      provider: formspree
-      formspree:
-        id: manoozdp  # Este es el ID que ya tienes
-      netlify:
-        captcha: false
+  form:
+    provider: formspree
+    formspree:
+      id: manoozdp  # Este es el ID que ya tienes
+    netlify:
+      captcha: false
 
 design:
   columns: '1'
