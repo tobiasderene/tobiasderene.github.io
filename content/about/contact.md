@@ -17,13 +17,14 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+   content:
+    autolink: true
+    form:
+      provider: formspree
+      formspree:
+        id: manoozdp  # Este es el ID que ya tienes
+      netlify:
+        captcha: false
 
 design:
   columns: '1'
