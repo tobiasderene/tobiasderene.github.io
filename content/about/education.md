@@ -25,8 +25,8 @@ experience:
     company_url: 'https://upa.edu.py/'
     company_logo: org-gc
     location: Asunción, Paraguay
-    date_start: '01-03-2021'
-    date_end: '22-12-2024'
+    date_start: '2021-01-03'
+    date_end: '2024-12-22'
     description: |2-
         * Thesis: Predicting In-App Purchase using Predictive Models
         * Robotics club Co-Leader
@@ -36,8 +36,8 @@ experience:
     company_url: 'https://www.srh-university.de/en/'
     company_logo: org-x
     location: Berlin, Germany
-    date_start: '03-10-2023'
-    date_end: '20-09-2024'
+    date_start: '2023-10-03'
+    date_end: '2024-09-20'
     description: |2-
         * Focused on Machine Learning and Data Wrangling
 
