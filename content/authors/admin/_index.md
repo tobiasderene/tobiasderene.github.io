@@ -6,20 +6,20 @@ title: Marcelo Rodriguez
 superuser: true
 
 # Role/position
-role: ''
+role: 'Data Analyst'
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: ""
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include business intelligence, data consulting, and retail analytics using Power BI and Python.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Data Analytics
+#- Machine Learning
+#- Consulting 
 
 #education:
 #  courses:
