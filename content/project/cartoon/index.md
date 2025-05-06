@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: New York Best Districts to Stay
+summary: Best Rated NY District
 tags:
-  - CV
-date: 2022-01-01
-external_link: http://github.com
+  - DA
+date: 2023-09-20
+external_link: https://github.com/tobiasderene/portfolio/tree/main/NewYorkBestDistrictsToStay
 ---
