@@ -22,28 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: BI Analyst
+    company: Ray Corporation
+    company_url: 'https://gruporay.evaluar.com/quienes-somos/'
+    location: Lambaré, Paraguay
+    date_start: '18-08-2024'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Analysing data with Power Bi
+        * Creating SQL Views
+        * Predicting information with data
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Data Consultant
+    company: Rio Aquidaban Exp.
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Ponta Pora, Brazil
+    date_start: '01-06-2024'
+    date_end: '1-08-2024'
+    description: |2-
+
+        * Data analysis and visualization, including periodic reporting
+        * Advisory on inventory control and process improvement
 
 design:
   columns: '1'
