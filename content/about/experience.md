@@ -25,7 +25,7 @@ experience:
     company_url: 'https://gruporay.evaluar.com/quienes-somos/'
     company_logo: org-gc
     location: Lambaré, Paraguay
-    date_start: '18-08-2024'
+    date_start: '2024-08-18'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -39,8 +39,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Ponta Pora, Brazil
-    date_start: '01-06-2024'
-    date_end: '1-08-2024'
+    date_start: '2024-06-01'
+    date_end: '2024-08-01'
     description: |2-
 
         * Data analysis and visualization, including periodic reporting
