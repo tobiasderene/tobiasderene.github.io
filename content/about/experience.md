@@ -23,6 +23,7 @@ experience:
   - title: BI Analyst
     company: Ray Corporation
     company_url: 'https://gruporay.evaluar.com/quienes-somos/'
+    company_logo: org-x
     location: Lambaré, Paraguay
     date_start: '18-08-2024'
     date_end: ''
@@ -36,6 +37,7 @@ experience:
   - title: Data Consultant
     company: Rio Aquidaban Exp.
     company_url: ''
+    company_logo: org-x
     location: Ponta Pora, Brazil
     date_start: '01-06-2024'
     date_end: '1-08-2024'
