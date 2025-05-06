@@ -23,7 +23,7 @@ experience:
   - title: BI Analyst
     company: Ray Corporation
     company_url: 'https://gruporay.evaluar.com/quienes-somos/'
-    company_logo: org-x
+    company_logo: org-gc
     location: Lambaré, Paraguay
     date_start: '18-08-2024'
     date_end: ''
