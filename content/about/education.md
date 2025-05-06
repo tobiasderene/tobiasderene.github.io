@@ -23,7 +23,7 @@ experience:
   - title: Bs. Business Informatics 
     company: German-Paraguayan University
     company_url: 'https://upa.edu.py/'
-    company_logo: org-x
+    company_logo: org-gc
     location: Asunción, Paraguay
     date_start: '01-03-2021'
     date_end: '22-12-2024'
