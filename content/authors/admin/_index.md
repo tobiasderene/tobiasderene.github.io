@@ -11,7 +11,7 @@ role: 'Data Analyst'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🇵🇾
 
 # Organizations/Affiliations
 #organizations:
